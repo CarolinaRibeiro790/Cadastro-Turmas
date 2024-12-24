@@ -9,6 +9,7 @@ Projeto Cadastro de Turmas - Curso Rocketseat
 
 ## Tecnologia
 React Native
+Typescript
 
 ### Para rodar o aplicativo, digitar no terminal:  
 npm i *(instala as dependências)*  
