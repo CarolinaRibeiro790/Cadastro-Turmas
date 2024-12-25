@@ -8,7 +8,7 @@ Projeto Cadastro de Turmas - Curso Rocketseat
 
 
 ## Tecnologia
-<li>React Native</li>  <br>
+<li>React Native</li>
 <li>Typescript</li>
 
 ### Para rodar o aplicativo, digitar no terminal:  
