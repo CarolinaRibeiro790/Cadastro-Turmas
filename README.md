@@ -12,5 +12,5 @@ React Native
 Typescript
 
 ### Para rodar o aplicativo, digitar no terminal:  
-npm i *(instala as dependências)*  
-npx expo start *(inicia o servidor do projeto)*
+npm i (instala as dependências)
+npx expo start (inicia o servidor do projeto)
